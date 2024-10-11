@@ -1,3 +1,6 @@
+
+# Reinforcement Learning with Euclidean Data Augmentation for State-Based Continuous Control
+
 python train_qua.py pixel_obs=false action_repeat=1 task=quadruped_run agent=ddpg_rotate aug_ratio=4  seed=1
 
 
